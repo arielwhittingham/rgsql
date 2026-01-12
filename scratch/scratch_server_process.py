@@ -1,5 +1,7 @@
 # https://www.datacamp.com/tutorial/a-complete-guide-to-socket-programming-in-python
 
+# https://github.com/sshlafman/PP4E/blob/master/System/Processes/socket_preview.py
+
 import socket
 
 _SERVER_IP = "127.0.0.1"
